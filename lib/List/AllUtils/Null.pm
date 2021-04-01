@@ -88,6 +88,19 @@ sub maxstr (@) {
 =head1 DESCRIPTION
 
 
+=head1 FUNCTIONS
+
+=head2 max
+
+=head2 maxstr
+
+=head2 min
+
+=head2 minstr
+
+=head2 sum
+
+
 =head1 SEE ALSO
 
 Your favorite SQL reference.
