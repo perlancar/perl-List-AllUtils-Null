@@ -9,6 +9,8 @@ use List::Util::Null qw(
     sum
 );
 
+# copy-pasted from 01-Null-basic.t:
+
 is_deeply(max(1,2,3,4,5)      , 5);
 is_deeply(max(1,2,undef,4,5)  , undef);
 is_deeply(maxstr("a","b","c","d","e")      , "e");

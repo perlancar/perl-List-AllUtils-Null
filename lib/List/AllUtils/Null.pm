@@ -108,4 +108,6 @@ Your favorite SQL reference.
 L<List::Util> and friends (L<List::SomeUtils>, L<List::UtilsBy>,
 L<List::MoreUtils>, L<List::AllUtils>).
 
+L<List::AllUtils::ContainsNull>
+
 =cut
