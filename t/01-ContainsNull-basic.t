@@ -2,7 +2,7 @@
 
 use strict;
 use warnings;
-use Test::More;
+use Test::More 0.98;
 
 use List::AllUtils::ContainsNull qw(
     max maxstr min minstr
