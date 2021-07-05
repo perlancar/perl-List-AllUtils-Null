@@ -87,6 +87,8 @@ sub maxstr (@) {
 
 =head1 DESCRIPTION
 
+Keywords: monadic zero.
+
 
 =head1 FUNCTIONS
 
